@@ -1,0 +1,59 @@
+/* Write your CSS here */
+.co-win-dashboard {
+  background-color: #161625;
+  padding: 20px 45px 20px 45px;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.logo-image {
+  height: 30px;
+  margin-right: 12px;
+}
+
+.website-title {
+  font-family: 'Roboto';
+  color: #2cc6c6;
+  font-size: 22px;
+}
+
+.heading {
+  color: #94a3b8;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.main-heading {
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #94a3b8;
+}
+
+.loader {
+  display: flex;
+  height: 90vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+}
+
+.failure-image {
+  height: 300px;
+}
+
+.failure-text {
+  font-weight: 'Bree Serif';
+  color: #ffffff;
+}
